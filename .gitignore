@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+*.pyo
+debug_last_run.log
+.DS_Store
+Thumbs.db
+*.stp
+*.igs
+*.iges

@@ -1,0 +1,5 @@
+# Optional: native STEP (.stp) export from Maya NURBS CVs.
+# Maya's embedded Python often cannot pip-install these easily —
+# see README for practical setups.
+OCP>=7.5
+# pythonocc-core>=7.5
